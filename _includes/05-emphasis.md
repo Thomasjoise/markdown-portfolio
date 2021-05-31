@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Hi , My name is **THOMAS JOISE**_
+
+*I am a __singer__* 
