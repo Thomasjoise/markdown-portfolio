@@ -1,3 +1,3 @@
-travelling
-swimming
-playing
+# travelling
+# swimming
+# playing
