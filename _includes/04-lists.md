@@ -1,0 +1,3 @@
+- travelling
+- swimming
+- playing
